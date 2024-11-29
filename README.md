@@ -1,1 +1,1 @@
-# Heuristic_Optimization_RNA
+# Trabajo 01: Optimización heurística
