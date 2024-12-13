@@ -11,31 +11,33 @@ Equipo 01 conformado por:
 
 ### Técnicas utilizadas
 
-* Funciones tradicionales para la optimización del método del gradiente
-
 #### Librerías 
-* 'Numpy'
-* 'PyGAD'
-* 'PySwamrs'
-* 'Scipy'
+* Numpy
+* PyGAD
+* PySwamrs
+* Scipy
 
 ### Resultados esperados
 
 ## Parte 2: Optimización combinatoria
 
-Para obtener la matriz de costos necesaria se hizo uso de web scrapping con la librería 'Selenium'
-
 ### Técnicas utilizadas
+
+* Para obtener la matriz de costos necesaria para resolver el TSP se hizo uso de web scrapping con la librería Selenium.
+* Para el Algoritmo de Colonia de Hormingas se realizó la construcción del algoritmo por medio de programación sin librerías adicionales a las relacionadas con cálculos numéricos y manejo de datos.
+* Para el Algoritmo Genético se hizo uso de la librería PyGAD y de funciones personalizadas para el cálculo de la mejor aptitud (fitness), mecanismo de mutación, la creación de la población y el tipo de cruzamiento.  
 
 #### Librerías
 
-* 'Selenium'
-* 'Numpy'
-* 'PyGAD'
-* 'Pandas'
-* 'Geopandas'
-* 'Matplotlib'
-* 'Imageio'
+* Selenium
+* Numpy
+* Cartopy
+* PyGAD
+* Pandas
+* Geopandas
+* Matplotlib
+* Imageio
   
 ### Resultados esperados
 
+En ambos algoritmos se espera como salida el costo mínimo en pesos mexicanos junto con la ruta óptima de las ciudades visitadas por el vendedor. 
