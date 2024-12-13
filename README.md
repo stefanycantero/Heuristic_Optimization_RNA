@@ -5,3 +5,15 @@ Equipo 01 conformado por:
 * Sebastian Aguinaga Velasquez
 * Stefany Cantero Cárdenas
 * María Del Pilar Mira Londoño
+
+## Parte 1: Optimización numérica
+
+### Técnicas utilizadas
+
+### Resultados esperados
+
+## Parte 2: Optimización combinatoria
+
+### Técnicas utilizadas
+
+### Resultados esperados
