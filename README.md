@@ -10,6 +10,10 @@ Equipo 01 conformado por:
 ## Parte 1: Optimización numérica
 
 ### Técnicas utilizadas
+* Para optimizar las funciones con descenso del gradiente se crearon las funciones para hacerlo.
+* Para optimizar con algoritmos evolutivos se uso la librería PyGAD.
+* Para realizar Optmización de partículas se utilizo la librería PySwarms.
+* Para optimizar con evolución diferencial se utilizó SciPy.
 
 #### Librerías 
 * Numpy
