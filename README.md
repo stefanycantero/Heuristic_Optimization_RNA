@@ -23,6 +23,7 @@ Equipo 01 conformado por:
 
 ### Resultados esperados
 
+Mejor solución encontrada con cada implementación, ya sea costo o posición, y su respectiva evaluación en cada una de las funciones elegidas.
 ## Parte 2: Optimización combinatoria
 
 ### Técnicas utilizadas
